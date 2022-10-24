@@ -1,0 +1,5 @@
+C:\Users\Луси\source\repos\пианино\пианино\obj\Debug\net6.0\пианино.csproj.AssemblyReference.cache
+C:\Users\Луси\source\repos\пианино\пианино\obj\Debug\net6.0\пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Луси\source\repos\пианино\пианино\obj\Debug\net6.0\пианино.AssemblyInfoInputs.cache
+C:\Users\Луси\source\repos\пианино\пианино\obj\Debug\net6.0\пианино.AssemblyInfo.cs
+C:\Users\Луси\source\repos\пианино\пианино\obj\Debug\net6.0\пианино.csproj.CoreCompileInputs.cache
